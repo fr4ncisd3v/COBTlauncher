@@ -1,6 +1,6 @@
 {
-    "launcher_version": "1.0.1",
-    "game_version": "1.2.0",
+    "launcher_version": "1.0.0",
+    "game_version": "1.0.0",
     "launcher_download_url": "http://example.com/launcher_update.exe",
     "game_download_url": "http://example.com/game_update.exe"
   }
